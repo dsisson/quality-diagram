@@ -14,6 +14,10 @@ These four stakeholders are connected by meaningful axes: the development/produc
 Examples of stakeholder-specific quality definitions are listed along the axis connecting stakeholder to product.
 
 
+## Latest Version
+![windmill](quality_windmill.png)
+
+
 ## Project Structure
 The latest version of this diagram is in the project root as `quality_windmill.png`. Older versions are in the `old` folder, with the current version having the latest version number in the filename.
 
