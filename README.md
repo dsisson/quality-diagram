@@ -3,7 +3,7 @@ The windmill diagram for describing how to define quality based on stakeholder r
 
 
 ## Description
-This diagram has the software product at its center; at the top, bottom, keft, and right edges of the diagrams are labels for the four stakeholder groups that drive the definitions of quality. These groups are:
+This diagram has the software product at its center; at the top, bottom, left, and right edges of the diagrams are labels for the four stakeholder groups that drive the definitions of quality. These groups are:
 + the development team or product team
 + the customers
 + the business entity
